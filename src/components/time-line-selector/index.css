@@ -1,0 +1,12 @@
+.timeline-container {
+    margin: 50px 10px 10px 100px;
+}
+.timeline {
+    margin-top: 20px;
+    width: 300px;
+}
+.timeline-label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+}

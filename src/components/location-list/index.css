@@ -1,0 +1,14 @@
+.country-label {
+    font-size: 18px;
+    font-weight: bold;
+}
+.countries-container {
+    display: flex;
+    margin-top: 20px;
+}
+.dropdowns-container {
+    margin-left: 100px;
+}
+.label-container {
+    margin: 10px 10px 0 0;
+}
